@@ -1,1 +1,1 @@
-# Assessment-of-BPSK-and-QPSK-Passband-Transmission-over-AWGN-Channel
+# Assessment-of-BPSK-and-QPSK-over-AWGN-Channel
